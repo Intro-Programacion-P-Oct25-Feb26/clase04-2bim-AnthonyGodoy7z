@@ -21,8 +21,8 @@ public class Ejemplo043 {
             obtenerSuma(v1, v2);
         }
         /*
-        v1 y v2 toman el valor de las variables cadenada de valores 1 y 2 
-        a travez del ciclo for y en este se llama al procediemiento obtener suma
+        v1 y v2 toman el valor de las variables cadenadax de valores 1 y 2 
+        a travez del ciclo for y en este se llama al procediemiento obtenerSuma
         con 2 argumentos para que realiza las sumas finales por cada repeticion
         del ciclo for hasta completar la longitud de valor1.
         
